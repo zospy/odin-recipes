@@ -1,0 +1,22 @@
+* {
+    color: lightblue blue;
+    margin: 100px;
+    text-align: left;
+}
+.mufin {
+    /* box sizing */
+    padding-left:200px;
+    padding-right: 200px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    width: 200px;
+    height: 64px;
+    /* box styling*/
+    border-radius: 20px;
+    
+    /* background image */
+    background-image: url(./images/mufin_image);
+    background-size: cover;
+    background-position: center;
+    
+}
