@@ -2,12 +2,15 @@
     
     margin: 100px;
     text-align: left;
+    color: dodgerblue;
+    background-color: beige;
+    
 }
 
 a {
-    color: black;
+    color: rgb(0, 0, 0);
     white-space: nowrap;
-
+    font-weight: 700;
 }
 .mufin {
     /* box sizing */
